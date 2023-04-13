@@ -1,4 +1,4 @@
-![Banner](./unyt_banner.png)
+![Banner](https://github.com/unyt-org/.github/raw/main/profile/unyt_banner.png)
 
 The vision of unyt is to provide a decentralized, secure, and private platform for data transfer and communication that eliminates single points of failure and ensures trust and availability. We focus on privacy, security, scalability to allow everybody to communicate safely. 
 
