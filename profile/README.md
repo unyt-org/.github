@@ -6,8 +6,9 @@ The ultimate goal of **unyt** is to establish a fully decentralized world wide w
 
 ---
 ### <div align="center">Visit [unyt.org](https://unyt.org)</div>
-### <div align="center">Read the [Whitepaper](https://unyt.org/whitepaper)</div>
-### <div align="center">Join our [Discord](https://discord.gg/ZAa6MnPM)</div>
+### <div align="center">Visit our [Blog](https://unyt.blog)</div>
+### <div align="center">Check out the [Docs](https://docs.unyt.org)</div>
+### <div align="center">Join our [Discord](https://unyt.org/discord)</div>
 ---
 
 ### 🌍 Our paradigms
