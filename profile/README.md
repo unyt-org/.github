@@ -1,13 +1,17 @@
 ![Banner](https://github.com/unyt-org/.github/raw/main/profile/unyt_banner.png)
 
-We are building a decentralized, secure, and private platform for data transfer and communication that eliminates single points of failure and ensures trust and availability. We focus on privacy, security, scalability to allow everybody to communicate safely. 
+# unyt.org
 
-The ultimate goal of **unyt** is to establish a fully decentralized world wide web that is accessible to everybody. Yes, everybody! 
+### We are building a decentralized, secure, and private platform for data transfer and communication that eliminates single points of failure and ensures trust and availability: **The Supranet**!
+
+We focus on **privacy**, **security** and **scalability** to allow endpoints to communicate safely. 
+
+The ultimate goal of **unyt.org** is to establish a fully decentralized world wide web that is accessible to everybody. Yes, everybody! 
 
 ---
 ### <div align="center">Visit [unyt.org](https://unyt.org)</div>
-### <div align="center">Visit our [Blog](https://unyt.blog)</div>
 ### <div align="center">Check out the [Docs](https://docs.unyt.org)</div>
+### <div align="center">Visit our [Blog](https://unyt.blog)</div>
 ### <div align="center">Join our [Discord](https://unyt.org/discord)</div>
 ---
 
