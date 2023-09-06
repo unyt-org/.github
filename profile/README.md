@@ -11,6 +11,7 @@ The ultimate goal of **unyt.org** is to establish a fully decentralized world wi
 ---
 ### <div align="center">Visit [unyt.org](https://unyt.org)</div>
 ### <div align="center">Check out the [Docs](https://docs.unyt.org)</div>
+### <div align="center">Check out [UIX](https://uix.unyt.org)</div>
 ### <div align="center">Visit our [Blog](https://unyt.blog)</div>
 ### <div align="center">Join our [Discord](https://unyt.org/discord)</div>
 ---
