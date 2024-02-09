@@ -14,7 +14,7 @@ Please adhere to these guidelines to maintain a welcoming and collaborative spac
 - [Asking Questions](#bulb-asking-questions)
 - [Opening an Issue](#inbox_tray-opening-an-issue)
   - [Reporting Security Issues](#lock-reporting-security-issues)
-  - [Bug Reports and Other Issues](#beetke-bug-reports-and-other-issues)
+  - [Bug Reports and Other Issues](#beetle-bug-reports-and-other-issues)
 - [Feature Requests](#love_letter-feature-requests)
 - [Submitting Pull Requests](#repeat-submitting-pull-requests)
 - [Writing Commit Messages](#memo-writing-commit-messages)
