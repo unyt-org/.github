@@ -28,7 +28,7 @@ The ultimate goal of **unyt.org** is to establish a fully decentralized world wi
 We appreciate bug reports, feature requests, pull requests and any other form of contribution on our projects
 
 * Please read our [code of conduct](https://github.com/unyt-org/.github/blob/main/CODE_OF_CONDUCT.md)
-* Refer to our [contribution guidelines](https://github.com/unyt-org/.github-private/blob/main/CONTRIBUTING.md)
+* Refer to our [contribution guidelines](https://github.com/unyt-org/.github/blob/main/CONTRIBUTING.md)
 * Get in touch with our team on [Discord](https://unyt.org/discord)
 * Become a member of the [unyt.org e.V.](https://unyt.org/join)
 
