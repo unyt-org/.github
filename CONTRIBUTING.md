@@ -2,9 +2,13 @@
 Welcome to [unyt.org](https://unyt.org)!
 
 These guidelines are designed to ensure clarity and foster a positive environment for all contributors.
-Your participation is invaluable in improving our project. 
+Your participation is invaluable in improving our project.  Please adhere to these guidelines to maintain a welcoming and collaborative space.
 
-Please adhere to these guidelines to maintain a welcoming and collaborative space.
+
+> [!Note]
+> Please check out our [documentation](https://unyt.org) and [blog](https://unyt.blog).
+> Feel free to join our projects discord [here](https://unyt.org/discord).
+
 
 *Pull requests, bug reports, and all other forms of contribution on our sub project such as [UIX](https://github.com/unyt-org/uix) and [DATEX](https://github.com/unyt-org/datex-core-js-legacy) are highly encouraged!* ❤️
 
@@ -36,12 +40,17 @@ For legal inquiries to unyt.org e.V., media inquiries or any other business inqu
 Before [creating an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue), check if you are using the latest version and branch of the project.
 If you are not up-to-date, see if updating fixes your issue first. Always include the project version number and local setup information in your issues.
 
+* Open an issue for [UIX](https://github.com/unyt-org/uix/issues)
+* Open an issue for [DATEX](https://github.com/unyt-org/datex-core-js-legacy/issues)
+* Open an issue for [unyt.land](https://github.com/unyt-org/unyt.land/issues)
+  
 ### :lock: Reporting Security Issues
 
 Please review our [Security Policy](https://github.com/unyt-org/.github/blob/main/SECURITY.md) and **do not** file a public issue for critical security vulnerabilities.
 You can reach our security team via security@unyt.org. Download our PGP key [here](https://unyt.org/pgp).
 
 * Report an [UIX](https://github.com/unyt-org/uix/security) security issue
+* Report a [DATEX](https://github.com/unyt-org/datex-core-js-legacy/security) security issue
 
 ### :beetle: Bug Reports and Other Issues
 
@@ -93,8 +102,8 @@ Please follow these guidelines for good commit messages:
 
 Consistency is the most important. Following the existing style, formatting, and naming conventions of the file you are modifying and of the overall project. Failure to do so will result in a prolonged review process that has to focus on updating the superficial aspects of your code, rather than improving its functionality and performance.
 
-### TypeScript
-* Constants shall be uppercase and seperated with underscore `_` (`const MY_CONST = 42`)
+### 📱 TypeScript
+* Constants shall be uppercase and seperated with underscore (`const MY_CONST = 42`)
 * Properties shall follow camel case naming convention (`myProp`)
 * Method names shall follow camel case naming convention (`myFunction() {}`)
 
