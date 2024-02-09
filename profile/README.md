@@ -11,9 +11,9 @@ The ultimate goal of **unyt.org** is to establish a fully decentralized world wi
 ---
 #### <div align="center">Visit [unyt.org](https://unyt.org)</div>
 #### <div align="center">Check out the [Docs](https://docs.unyt.org)</div>
-#### <div align="center">Check out [UIX](https://uix.unyt.org)</div>
 #### <div align="center">Visit our [Blog](https://unyt.blog)</div>
 #### <div align="center">Join our [Discord](https://unyt.org/discord)</div>
+#### <div align="center">Check out [UIX](https://uix.unyt.org)</div>
 ---
 
 ### 🌍 Our paradigms
@@ -25,22 +25,34 @@ The ultimate goal of **unyt.org** is to establish a fully decentralized world wi
 
 
 ### 💬 Get involved
+We appreciate bug reports, feature requests, pull requests and any other form of contribution on our projects
 
-We appreciate any contribution!
-*Please read our [contribution guidelines](https://github.com/unyt-org/.github-private/blob/main/CONTRIBUTING.md)*.
+* Please read our [code of conduct](https://github.com/unyt-org/.github/blob/main/CODE_OF_CONDUCT.md)
+* Refer to our [contribution guidelines](https://github.com/unyt-org/.github-private/blob/main/CONTRIBUTING.md)
+* Get in touch with our team on [Discord](https://unyt.org/discord)
+* Become a member of the [unyt.org e.V.](https://unyt.org/join)
 
 #### 💬 Help and Discussion
- * Discord: [unyt.org/discord](https://unyt.org/discord)
- * GitHub Discussions: [github.com/orgs/unyt-org/discussions](https://github.com/orgs/unyt-org/discussions)
+* Discord: [unyt.org/discord](https://unyt.org/discord)
+* Discussions: [github.com/orgs/unyt-org/discussions](https://github.com/orgs/unyt-org/discussions)
+* Blog [unyt.blog](https://unyt.blog)
 
-#### 🌐 Helpful Links
- * Documentation *(in development)*: [docs.unyt.org](https://docs.unyt.org)
+ 
+#### 🛟 Helpful Links
  * Glossary: [unyt.org/glossary](https://unyt.org/glossary)
- * UIX: [uix.unyt.org](https://uix.unyt.org)
- * Blog: [unyt.blog](https://unyt.blog)
- * DATEX Playground *(write and test DATEX Scripts)*: [playground.unyt.org](https://playground.unyt.org)
- * Live Demo Projects: [example.unyt.app](https://example.unyt.app)
+ * Our Newsletter: [newsletter.unyt.org](https://newsletter.unyt.org)
+ * The UIX project: [uix.unyt.org](https://uix.unyt.org)
+ * Endpoint management: [unyt.me](https://me.unyt.org)
 
 #### 🔧 Useful Tools
  * [DATEX Workbench](https://marketplace.visualstudio.com/items?itemName=unytorg.datex-workbench): VS Code Extension (Datex Syntax Support & Tests)
  * [Mock Blockchain](https://relay2.unyt.cc/): View all entries in our current mock blockchain
+ * [status.unyt.org](https://status.unyt.org): Uptime monitoring for the core services
+ * [cdn.unyt.org](https://cdn.unyt.org): Our main content delivery network
+ * [unyt.land](https://unyt.land): Our TypeScript transpiler
+
+
+
+---
+
+<sub>&copy; unyt 2024 • [unyt.org](https://unyt.org)</sub>
