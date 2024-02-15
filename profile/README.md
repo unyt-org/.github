@@ -24,7 +24,7 @@ We focus on **privacy**, **security** and **scalability** to allow endpoints to 
 * [The UIX project](https://github.com/unyt-org/uix) - We are working on a next-gen framework for the development of reactive full-stack web applications with shared state.
 * [The DATEX project](https://github.com/unyt-org/datex-core-js-legacy) - The DATEX Library enables fine-grained reactivity with cross-device processing including data synchronisation.
 * [unyt Auth](https://unyt.blog/article/2023-12-10-introducing-the-unyt-auth-service) - Security-first state-of-art authentication service.
-* [The Supranet](https://unyt.blog/article/2023-07-18-introduction-to-unyt-org-s-democratic-supranet) - Our democratic decentralized blockchain-based network.
+* [The Supranet](https://supranet.unyt.org) - Our democratic decentralized blockchain-based network.
 * [Many more...](https://github.com/orgs/unyt-org/repositories)
 
 ## 📌 Get involved
@@ -46,6 +46,7 @@ We appreciate bug reports, feature requests, pull requests and any other form of
  * Our Newsletter: [newsletter.unyt.org](https://newsletter.unyt.org)
  * The UIX project: [uix.unyt.org](https://uix.unyt.org)
  * Endpoint management: [unyt.me](https://me.unyt.org)
+ * Auth Service: [auth.unyt.me](https://auth.unyt.org)
 
 ## 🔧 Useful Tools
  * [DATEX Workbench](https://marketplace.visualstudio.com/items?itemName=unytorg.datex-workbench): VS Code Extension (Datex Syntax Support & Tests)
