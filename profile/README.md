@@ -2,7 +2,7 @@
 
 # 👋 Hi, welcome to the unyt.org GitHub
 
-We are building a decentralized, secure, and private platform for data transfer and communication that eliminates single points of failure and ensures trust and availability: **The Supranet**!
+We are building a decentralized, secure, and private platform for data transfer and communication that eliminates single points of failure and ensures trust and availability: **The [Supranet](https://unyt.org/supranet)**!
 
 We focus on **privacy**, **security** and **scalability** to allow endpoints to communicate safely. 
 
