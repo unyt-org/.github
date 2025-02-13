@@ -11,6 +11,8 @@ We focus on **privacy**, **security** and **scalability** to allow endpoints to 
 #### <div align="center">Check out the [Docs](https://docs.unyt.org)</div>
 #### <div align="center">Visit our [Blog](https://unyt.blog)</div>
 #### <div align="center">Join our [Discord](https://unyt.org/discord)</div>
+#### <div align="center">Check out the [unyt.org Shop](https://shop.unyt.org)</div>
+
 ---
 
 ## 🌍 Our paradigms
