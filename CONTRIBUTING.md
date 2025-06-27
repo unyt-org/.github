@@ -111,5 +111,5 @@ Consistency is the most important. Following the existing style, formatting, and
 
 ---
 
-<sub>&copy; unyt 2024 • [unyt.org](https://unyt.org)</sub>
+<sub>&copy; unyt 2025 • [unyt.org](https://unyt.org)</sub>
   
